@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "deny": [
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(git merge *)",
+      "Bash(git rebase *)",
+      "Bash(git cherry-pick *)",
+      "Bash(gh pr *)",
+      "PowerShell(git commit *)",
+      "PowerShell(git push *)",
+      "PowerShell(git merge *)",
+      "PowerShell(git rebase *)",
+      "PowerShell(git cherry-pick *)",
+      "PowerShell(gh pr *)",
+      "Edit(/documentation/REQUIREMENTS.md)",
+      "*rm -rf*",
+      "*rm*"
+    ]
+  }
+}

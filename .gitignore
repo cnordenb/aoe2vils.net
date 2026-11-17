@@ -1,1 +1,6 @@
 KLADD.md
+.vscode/
+temp/
+.claude/settings.local.json
+.metrics/
+target/

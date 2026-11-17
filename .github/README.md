@@ -1,4 +1,12 @@
+[![GitHub last commit](https://img.shields.io/github/last-commit/cnordenb/aoe2vils.net)](#)
+[![language](https://img.shields.io/badge/language-JavaScript-FFFF00)](#)
+[![license](https://img.shields.io/badge/license-MIT-007FFF)](LICENSE)
+[![testing](https://img.shields.io/badge/testing-yes-C3FF00)](documentation/TESTS.md)
+[![maintainable](https://img.shields.io/badge/maintainable-yes-00FF72)](documentation/MAINTAINER.md)
+
 # [aoe2vils.net](https://aoe2vils.net/)
+
+## Description
 
 Calculation webapp tool for estimating villagers required and transition eco in Age of Empires II: Definitive Edition.  
 
@@ -28,19 +36,30 @@ _Either see age-up times or define time-span yourself._
 ### Some other nice things about aoe2vils.net
 - no ads nor cookies, naturally privacy friendly and GDPR compliant
 - no page scrolling, what you see is what you get
-- no images, just 2 http requests and a fast load time
+- no images, just a fast load time
 
 ### Some not so nice things
 - the UX for mobile users isn't great, aoe2vils.net is best on desktop
 - it's still a bit overwhelming with the amount of checkboxes and dropdown menus
 
-## Acknowledgments
+
+## Contributing
+
+Anyone is welcome to open an [issue](https://github.com/cnordenb/aoe2vils.net/issues) to submit a bug report or suggest a new feature. Alternatively, you may fork or copy the repository and take it in any direction you wish.
+
+If you wish to contribute work into this repository, please consult [CONTRIBUTING.md](CONTRIBUTING.md) before any commits or pull requests.
+
+## Maintaining
+
+To keep aoe2vils.net working and up to date, see [MAINTAINER.md](../documentation/MAINTAINER.md).
+
+## Acknowledgements
 
 Inspired by Survivalist's [original webapp](https://aoe2-de-tools.herokuapp.com/villagers-required/). Its code was used in development of aoe2vils with explicit permission.
 
 Special thanks to HSZemi and Siege Engineers for their [aoe2techtree](https://github.com/SiegeEngineers/aoe2techtree) which made it a great deal easier to make aoe2vils.
 
-Development accelerated with Claude Opus 5.5.
+Development of aoe2vils.net was accelerated with Claude Opus 5.5.
 
 Age of Empires II © Microsoft Corporation. aoe2vils was created under Microsoft's "[Game Content Usage Rules](https://www.xbox.com/en-us/developers/rules)" using assets from Age of Empires II, and it is not endorsed by or affiliated with Microsoft.
 
